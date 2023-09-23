@@ -10,7 +10,13 @@ In this project, I've created Jupyter Notebook files to demonstrate both regress
 
 - **Regression Task**: The project includes a Jupyter Notebook file dedicated to regression tasks using the `housing_dataset.csv`. I've utilized popular regression algorithms such as Linear Regression, Decision Trees, Random Forests, and Support Vector Regression. The ABC algorithm is used to fine-tune the hyperparameters of these models, enhancing their predictive performance in estimating housing prices based on factors such as location and size.
 
+![](images/classification-optimized-f1.png)
+![](images/classification-f1-resampling.png)
+![](images/classification-results.png)
+
 - **Classification Task**: Another Jupyter Notebook file focuses on classification tasks using the `credit_dataset.csv`. It involves well-known classification algorithms like Logistic Regression, Random Forest Classifier, and Support Vector Classifier. The ABC algorithm plays a crucial role in optimizing these classifiers for better accuracy in predicting whether a customer will default based on factors such as income and credit history.
+
+![](images/regression-results.png)
 
 ## Paper Reference
 
