@@ -1,6 +1,6 @@
 # Machine Learning Project: Regression and Classification with Artificial Bee Colony Algorithm
 
-Welcome to the GitHub repository for my machine learning project, where I've tackled regression and classification tasks using the power of the Artificial Bee Colony (ABC) algorithm for hyperparameter optimization. This project showcases the effectiveness of ABC in optimizing the performance of various machine learning models.
+Welcome to the GitHub repository for my machine learning projects, which was one of my submissions for my AI and ML module at Singapore Polytechnic, where I've tackled regression and classification tasks using the power of the Artificial Bee Colony (ABC) algorithm for hyperparameter optimization. This project showcases the effectiveness of ABC in optimizing the performance of various machine learning models. Both datasets were provided as part of the assignment and I have linked the original source for the dataset where possible.
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ In this project, I've created Jupyter Notebook files to demonstrate both regress
 ![](images/classification-resampling.png)
 ![](images/classification-results.png)
 
-- **Classification Task**: Another Jupyter Notebook file focuses on classification tasks using the `credit_dataset.csv`. It involves well-known classification algorithms like Logistic Regression, Random Forest Classifier, and Support Vector Classifier. The ABC algorithm plays a crucial role in optimizing these classifiers for better accuracy in predicting whether a customer will default based on factors such as income and credit history.
+- **Classification Task**: Another Jupyter Notebook file focuses on classification tasks using the [`credit_dataset.csv`](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients). It involves well-known classification algorithms like Logistic Regression, Random Forest Classifier, and Support Vector Classifier. The ABC algorithm plays a crucial role in optimizing these classifiers for better accuracy in predicting whether a customer will default based on factors such as income and credit history.
 
 ![](images/regression-results.png)
 
